@@ -1,0 +1,7 @@
+hcskr
+discord
+discord.py
+asyncio
+nest_asyncio
+pytz
+datetime
